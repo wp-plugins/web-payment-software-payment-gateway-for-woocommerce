@@ -1,7 +1,7 @@
 === Web Payment Software Payment Gateway for WooCommerce ===
 Contributors: Dualcube
-Tags: gateway, sales, sell, shop, shopping, store, cart, checkout, commerce, e-commerce, web payment, wordpress ecommerce, shopping cart, woocommerce, credit card, extension
 Donate link: http://dualcube.com/
+Tags: gateway, sales, sell, shop, shopping, store, cart, checkout, commerce, e-commerce, web payment, wordpress ecommerce, shopping cart, woocommerce, credit card, extension
 Requires at least: 3.6
 Tested up to: 3.8.1
 Stable tag: 1.0.0
@@ -11,6 +11,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 A simple, affordable solution for your business to accept payments online through Woocommerce.
 
 == Description ==
+
 Web Payment Software™ is a product and service of Mountain Media. Mountain Media has been serving the eCommerce development marketplace since 1998. 
 
 As a compliment to Mountain Commerce, the company’s full-featured eCommerce platform, Mountain Media has developed a payment gateway for use with WooCommerce with an added twist. Not only does Web Payment Software™ function as a traditional payment gateway, it also offers a virtual terminal as well as a hosted solution for constructing and managing “payment pages.” This flexible new system is great for accepting online invoice payments, donations or event registrations or as an alternative to PayPal. 
@@ -23,6 +24,7 @@ In case you feel compelled to rate this plugin less than 5 stars - please do men
 
 
 == Installation ==
+
 = Installing The Payment Gateway Plugin =
 1. Download the plugin zip file.
 2. Login to your WordPress Admin. Click on Plugins | Add New from the left hand menu.
@@ -63,6 +65,7 @@ To configure the plugin, go to **WooCommerce > Settings** from the left hand men
 
 
 == Frequently Asked Questions ==
+
 = Does this plugin work with newest WP version and also older versions? =
 Yes, this plugin works really fine up to WordPress 3.8.1! It is also compatible with older WordPress versions, down to 3.6.
 
@@ -84,6 +87,7 @@ For security purposes, this plugin requires an active SSL connection via a secur
 
 
 == Screenshots ==
+
 1. In order to ensure secure transactions force SSL(HTTPS) is required on the checkout page.
 2. Mandatory details include Merchant ID and Merchant Key
 3. Easily accept credit card payments on your own site.
