@@ -14,7 +14,7 @@ A simple, affordable solution for your business to accept payments online throug
 
 Web Payment Software™ is a product and service of Mountain Media. Mountain Media has been serving the eCommerce development marketplace since 1998. 
 
-As a compliment to Mountain Commerce, the company’s full-featured eCommerce platform, Mountain Media has developed a payment gateway for use with WooCommerce with an added twist. Not only does Web Payment Software™ function as a traditional payment gateway, it also offers a virtual terminal as well as a hosted solution for constructing and managing “payment pages.” This flexible new system is great for accepting online invoice payments, donations or event registrations or as an alternative to PayPal. 
+As a compliment to Mountain Commerce, the company's full-featured eCommerce platform, Mountain Media has developed a payment gateway for use with WooCommerce with an added twist. Not only does Web Payment Software™ function as a traditional payment gateway, it also offers a virtual terminal as well as a hosted solution for constructing and managing “payment pages.” This flexible new system is great for accepting online invoice payments, donations or event registrations or as an alternative to PayPal. 
 
 Mountain Media is a PCI DSS compliant hosting provider which ensures that your transactions will be protected by the toughest data security standards and technology available. Contact a payment consultant today at (877) 583-0300 for a free consultation.
 
