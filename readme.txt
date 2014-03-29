@@ -1,5 +1,5 @@
 === Web Payment Software Payment Gateway for WooCommerce ===
-Contributors: Dualcube
+Contributors: Dualcube, mountainmedia
 Donate link: http://dualcube.com/
 Tags: gateway, sales, sell, shop, shopping, store, cart, checkout, commerce, e-commerce, web payment, wordpress ecommerce, shopping cart, woocommerce, credit card, extension
 Requires at least: 3.6
