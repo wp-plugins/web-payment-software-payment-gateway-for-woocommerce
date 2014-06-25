@@ -5,7 +5,7 @@
  * Plugin URI: http://dualcube.com
  * Description: A simple, affordable solution for your business to accept payments online through Woocommerce.
  * Author: Dualcube
- * Version: 1.0.0
+ * Version: 1.0.1
  * Author URI: http://dualcube.com
  *
  * Copyright: (c) 2014 DualCube (admin@dualcube.com)
