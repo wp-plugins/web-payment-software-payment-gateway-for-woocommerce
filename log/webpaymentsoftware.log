@@ -1,0 +1,612 @@
+RESPONSE RAW: "<?xml version=\"1.0\" ?>\r\n<WebPaymentSoftwareResponse version=\"1.0\">\r\n<response_code>00<\/response_code>\r\n<approval_code>TAS565<\/approval_code>\r\n<auth_response_text>NO  MATCH<\/auth_response_text>\r\n<avs_result_code>N<\/avs_result_code>\r\n<cvv_result_code><\/cvv_result_code>\r\n<order_id>140128-0709-00<\/order_id>\r\n<response_text>Approved.<\/response_text>\r\n<\/WebPaymentSoftwareResponse>\r\n"
+
+RESPONSE:["<?xml version=\"1.0\" ?>","<WebPaymentSoftwareResponse version=\"1.0\">","<response_code>00<\/response_code>","<approval_code>TAS565<\/approval_code>","<auth_response_text>NO  MATCH<\/auth_response_text>","<avs_result_code>N<\/avs_result_code>","<cvv_result_code><\/cvv_result_code>","<order_id>140128-0709-00<\/order_id>","<response_text>Approved.<\/response_text>","<\/WebPaymentSoftwareResponse>",""]
+-------------------------------------
+RESPONSE RAW: "<?xml version=\"1.0\" ?>\r\n<WebPaymentSoftwareResponse version=\"1.0\">\r\n<response_code>00<\/response_code>\r\n<approval_code>TAS992<\/approval_code>\r\n<auth_response_text>NO  MATCH<\/auth_response_text>\r\n<avs_result_code>N<\/avs_result_code>\r\n<cvv_result_code><\/cvv_result_code>\r\n<order_id>140128-0737-00<\/order_id>\r\n<response_text>Approved.<\/response_text>\r\n<\/WebPaymentSoftwareResponse>\r\n"
+
+RESPONSE:{"@attributes":{"version":"1.0"},"response_code":"00","approval_code":"TAS992","auth_response_text":"NO  MATCH","avs_result_code":"N","cvv_result_code":{},"order_id":"140128-0737-00","response_text":"Approved."}
+-------------------------------------
+PayGate ERROR:
+response_code:
+response_reasib_text:
+-------------------------------------
+RESPONSE RAW: "<?xml version=\"1.0\" ?>\r\n<WebPaymentSoftwareResponse version=\"1.0\">\r\n<response_code>126<\/response_code>\r\n<response_text>Duplicate transaction error.<\/response_text>\r\n<\/WebPaymentSoftwareResponse>\r\n"
+
+RESPONSE:{"@attributes":{"version":"1.0"},"response_code":"126","response_text":"Duplicate transaction error."}
+-------------------------------------
+PayGate ERROR:
+response_code:
+response_reasib_text:
+-------------------------------------
+RESPONSE RAW: "<?xml version=\"1.0\" ?>\r\n<WebPaymentSoftwareResponse version=\"1.0\">\r\n<response_code>00<\/response_code>\r\n<approval_code>TAS025<\/approval_code>\r\n<auth_response_text>NO  MATCH<\/auth_response_text>\r\n<avs_result_code>N<\/avs_result_code>\r\n<cvv_result_code><\/cvv_result_code>\r\n<order_id>140128-0739-00<\/order_id>\r\n<response_text>Approved.<\/response_text>\r\n<\/WebPaymentSoftwareResponse>\r\n"
+
+RESPONSE:{"@attributes":{"version":"1.0"},"response_code":"00","approval_code":"TAS025","auth_response_text":"NO  MATCH","avs_result_code":"N","cvv_result_code":{},"order_id":"140128-0739-00","response_text":"Approved."}
+-------------------------------------
+PayGate ERROR:
+response_code:
+response_reasib_text:
+-------------------------------------
+RESPONSE RAW: "<?xml version=\"1.0\" ?>\r\n<WebPaymentSoftwareResponse version=\"1.0\">\r\n<response_code>00<\/response_code>\r\n<approval_code>TAS038<\/approval_code>\r\n<auth_response_text>NO  MATCH<\/auth_response_text>\r\n<avs_result_code>N<\/avs_result_code>\r\n<cvv_result_code><\/cvv_result_code>\r\n<order_id>140128-0740-00<\/order_id>\r\n<response_text>Approved.<\/response_text>\r\n<\/WebPaymentSoftwareResponse>\r\n"
+
+RESPONSE:{"@attributes":{"version":"1.0"},"response_code":"00","approval_code":"TAS038","auth_response_text":"NO  MATCH","avs_result_code":"N","cvv_result_code":{},"order_id":"140128-0740-00","response_text":"Approved."}
+-------------------------------------
+PayGate ERROR:
+response_code:
+response_reasib_text:
+-------------------------------------
+RESPONSE RAW: "<?xml version=\"1.0\" ?>\r\n<WebPaymentSoftwareResponse version=\"1.0\">\r\n<response_code>00<\/response_code>\r\n<approval_code>TAS054<\/approval_code>\r\n<auth_response_text>NO  MATCH<\/auth_response_text>\r\n<avs_result_code>N<\/avs_result_code>\r\n<cvv_result_code><\/cvv_result_code>\r\n<order_id>140128-0741-00<\/order_id>\r\n<response_text>Approved.<\/response_text>\r\n<\/WebPaymentSoftwareResponse>\r\n"
+
+RESPONSE:{"@attributes":{"version":"1.0"},"response_code":"00","approval_code":"TAS054","auth_response_text":"NO  MATCH","avs_result_code":"N","cvv_result_code":{},"order_id":"140128-0741-00","response_text":"Approved."}
+-------------------------------------
+PayGate ERROR:
+response_code:
+response_reasib_text:
+-------------------------------------
+RESPONSE RAW: "<?xml version=\"1.0\" ?>\r\n<WebPaymentSoftwareResponse version=\"1.0\">\r\n<response_code>126<\/response_code>\r\n<response_text>Duplicate transaction error.<\/response_text>\r\n<\/WebPaymentSoftwareResponse>\r\n"
+
+RESPONSE:{"@attributes":{"version":"1.0"},"response_code":"126","response_text":"Duplicate transaction error."}
+-------------------------------------
+PayGate ERROR:
+response_code:
+response_reasib_text:
+-------------------------------------
+RESPONSE RAW: "<?xml version=\"1.0\" ?>\r\n<WebPaymentSoftwareResponse version=\"1.0\">\r\n<response_code>126<\/response_code>\r\n<response_text>Duplicate transaction error.<\/response_text>\r\n<\/WebPaymentSoftwareResponse>\r\n"
+
+RESPONSE:{"@attributes":{"version":"1.0"},"response_code":"126","response_text":"Duplicate transaction error."}
+-------------------------------------
+PayGate ERROR:
+response_code:
+response_reasib_text:
+-------------------------------------
+RESPONSE RAW: "<?xml version=\"1.0\" ?>\r\n<WebPaymentSoftwareResponse version=\"1.0\">\r\n<response_code>00<\/response_code>\r\n<approval_code>TAS071<\/approval_code>\r\n<auth_response_text>NO  MATCH<\/auth_response_text>\r\n<avs_result_code>N<\/avs_result_code>\r\n<cvv_result_code><\/cvv_result_code>\r\n<order_id>140128-0742-00<\/order_id>\r\n<response_text>Approved.<\/response_text>\r\n<\/WebPaymentSoftwareResponse>\r\n"
+
+RESPONSE:{"@attributes":{"version":"1.0"},"response_code":"00","approval_code":"TAS071","auth_response_text":"NO  MATCH","avs_result_code":"N","cvv_result_code":{},"order_id":"140128-0742-00","response_text":"Approved."}
+-------------------------------------
+PayGate ERROR:
+response_code:
+response_reasib_text:
+-------------------------------------
+RESPONSE RAW: "<?xml version=\"1.0\" ?>\r\n<WebPaymentSoftwareResponse version=\"1.0\">\r\n<response_code>00<\/response_code>\r\n<approval_code>TAS128<\/approval_code>\r\n<auth_response_text>NO  MATCH<\/auth_response_text>\r\n<avs_result_code>N<\/avs_result_code>\r\n<cvv_result_code><\/cvv_result_code>\r\n<order_id>140128-0747-00<\/order_id>\r\n<response_text>Approved.<\/response_text>\r\n<\/WebPaymentSoftwareResponse>\r\n"
+
+RESPONSE:{"@attributes":{"version":"1.0"},"response_code":"00","approval_code":"TAS128","auth_response_text":"NO  MATCH","avs_result_code":"N","cvv_result_code":{},"order_id":"140128-0747-00","response_text":"Approved."}
+-------------------------------------
+PayGate ERROR:
+response_code:
+response_reasib_text:
+-------------------------------------
+RESPONSE RAW: "<?xml version=\"1.0\" ?>\r\n<WebPaymentSoftwareResponse version=\"1.0\">\r\n<response_code>00<\/response_code>\r\n<approval_code>TAS146<\/approval_code>\r\n<auth_response_text>NO  MATCH<\/auth_response_text>\r\n<avs_result_code>N<\/avs_result_code>\r\n<cvv_result_code><\/cvv_result_code>\r\n<order_id>140128-0749-00<\/order_id>\r\n<response_text>Approved.<\/response_text>\r\n<\/WebPaymentSoftwareResponse>\r\n"
+
+RESPONSE:{"@attributes":{"version":"1.0"},"response_code":"00","approval_code":"TAS146","auth_response_text":"NO  MATCH","avs_result_code":"N","cvv_result_code":{},"order_id":"140128-0749-00","response_text":"Approved."}
+-------------------------------------
+PayGate ERROR:
+response_code:
+response_reasib_text:
+-------------------------------------
+RESPONSE RAW: "<?xml version=\"1.0\" ?>\r\n<WebPaymentSoftwareResponse version=\"1.0\">\r\n<response_code>00<\/response_code>\r\n<approval_code>TAS187<\/approval_code>\r\n<auth_response_text>NO  MATCH<\/auth_response_text>\r\n<avs_result_code>N<\/avs_result_code>\r\n<cvv_result_code><\/cvv_result_code>\r\n<order_id>140128-0752-00<\/order_id>\r\n<response_text>Approved.<\/response_text>\r\n<\/WebPaymentSoftwareResponse>\r\n"
+
+RESPONSE:{"@attributes":{"version":"1.0"},"response_code":"00","approval_code":"TAS187","auth_response_text":"NO  MATCH","avs_result_code":"N","cvv_result_code":{},"order_id":"140128-0752-00","response_text":"Approved."}
+-------------------------------------
+PayGate ERROR:
+response_code:
+response_reasib_text:
+-------------------------------------
+RESPONSE RAW: "<?xml version=\"1.0\" ?>\r\n<WebPaymentSoftwareResponse version=\"1.0\">\r\n<response_code>00<\/response_code>\r\n<approval_code>TAS192<\/approval_code>\r\n<auth_response_text>NO  MATCH<\/auth_response_text>\r\n<avs_result_code>N<\/avs_result_code>\r\n<cvv_result_code><\/cvv_result_code>\r\n<order_id>140128-0752-01<\/order_id>\r\n<response_text>Approved.<\/response_text>\r\n<\/WebPaymentSoftwareResponse>\r\n"
+
+RESPONSE:{"@attributes":{"version":"1.0"},"response_code":"00","approval_code":"TAS192","auth_response_text":"NO  MATCH","avs_result_code":"N","cvv_result_code":{},"order_id":"140128-0752-01","response_text":"Approved."}
+-------------------------------------
+PayGate ERROR:
+response_code:
+response_reasib_text:
+-------------------------------------
+RESPONSE RAW: "<?xml version=\"1.0\" ?>\r\n<WebPaymentSoftwareResponse version=\"1.0\">\r\n<response_code>00<\/response_code>\r\n<approval_code>TAS272<\/approval_code>\r\n<auth_response_text>NO  MATCH<\/auth_response_text>\r\n<avs_result_code>N<\/avs_result_code>\r\n<cvv_result_code><\/cvv_result_code>\r\n<order_id>140128-0755-00<\/order_id>\r\n<response_text>Approved.<\/response_text>\r\n<\/WebPaymentSoftwareResponse>\r\n"
+
+RESPONSE:false
+-------------------------------------
+PayGate ERROR:
+response_code:
+response_reasib_text:
+-------------------------------------
+RESPONSE RAW: "<?xml version=\"1.0\" ?>\r\n<WebPaymentSoftwareResponse version=\"1.0\">\r\n<response_code>00<\/response_code>\r\n<approval_code>TAS331<\/approval_code>\r\n<auth_response_text>NO  MATCH<\/auth_response_text>\r\n<avs_result_code>N<\/avs_result_code>\r\n<cvv_result_code><\/cvv_result_code>\r\n<order_id>140128-0757-00<\/order_id>\r\n<response_text>Approved.<\/response_text>\r\n<\/WebPaymentSoftwareResponse>\r\n"
+
+RESPONSE:{"@attributes":{"version":"1.0"},"response_code":"00","approval_code":"TAS331","auth_response_text":"NO  MATCH","avs_result_code":"N","cvv_result_code":{},"order_id":"140128-0757-00","response_text":"Approved."}
+-------------------------------------
+PayGate ERROR:
+response_code:
+response_reasib_text:
+-------------------------------------
+RESPONSE RAW: "<?xml version=\"1.0\" ?>\r\n<WebPaymentSoftwareResponse version=\"1.0\">\r\n<response_code>00<\/response_code>\r\n<approval_code>TAS385<\/approval_code>\r\n<auth_response_text>NO  MATCH<\/auth_response_text>\r\n<avs_result_code>N<\/avs_result_code>\r\n<cvv_result_code><\/cvv_result_code>\r\n<order_id>140128-0758-00<\/order_id>\r\n<response_text>Approved.<\/response_text>\r\n<\/WebPaymentSoftwareResponse>\r\n"
+
+RESPONSE:{"@attributes":{"version":"1.0"},"response_code":"00","approval_code":"TAS385","auth_response_text":"NO  MATCH","avs_result_code":"N","cvv_result_code":{},"order_id":"140128-0758-00","response_text":"Approved."}
+-------------------------------------
+PayGate ERROR:
+response_code:
+response_reasib_text:
+-------------------------------------
+RESPONSE RAW: "<?xml version=\"1.0\" ?>\r\n<WebPaymentSoftwareResponse version=\"1.0\">\r\n<response_code>00<\/response_code>\r\n<approval_code>TAS509<\/approval_code>\r\n<auth_response_text>NO  MATCH<\/auth_response_text>\r\n<avs_result_code>N<\/avs_result_code>\r\n<cvv_result_code><\/cvv_result_code>\r\n<order_id>140128-0800-00<\/order_id>\r\n<response_text>Approved.<\/response_text>\r\n<\/WebPaymentSoftwareResponse>\r\n"
+
+RESPONSE:{"@attributes":{"version":"1.0"},"response_code":"00","approval_code":"TAS509","auth_response_text":"NO  MATCH","avs_result_code":"N","cvv_result_code":{},"order_id":"140128-0800-00","response_text":"Approved."}
+-------------------------------------
+PayGate ERROR:
+response_code:
+response_reasib_text:
+-------------------------------------
+RESPONSE RAW: "<?xml version=\"1.0\" ?>\r\n<WebPaymentSoftwareResponse version=\"1.0\">\r\n<response_code>00<\/response_code>\r\n<approval_code>TAS557<\/approval_code>\r\n<auth_response_text>NO  MATCH<\/auth_response_text>\r\n<avs_result_code>N<\/avs_result_code>\r\n<cvv_result_code><\/cvv_result_code>\r\n<order_id>140128-0801-00<\/order_id>\r\n<response_text>Approved.<\/response_text>\r\n<\/WebPaymentSoftwareResponse>\r\n"
+
+RESPONSE:{"@attributes":{"version":"1.0"},"response_code":"00","approval_code":"TAS557","auth_response_text":"NO  MATCH","avs_result_code":"N","cvv_result_code":{},"order_id":"140128-0801-00","response_text":"Approved."}
+-------------------------------------
+PayGate ERROR:
+response_code:
+response_reasib_text:
+-------------------------------------
+RESPONSE RAW: "<?xml version=\"1.0\" ?>\r\n<WebPaymentSoftwareResponse version=\"1.0\">\r\n<response_code>00<\/response_code>\r\n<approval_code>TAS590<\/approval_code>\r\n<auth_response_text>NO  MATCH<\/auth_response_text>\r\n<avs_result_code>N<\/avs_result_code>\r\n<cvv_result_code><\/cvv_result_code>\r\n<order_id>140128-0801-01<\/order_id>\r\n<response_text>Approved.<\/response_text>\r\n<\/WebPaymentSoftwareResponse>\r\n"
+
+RESPONSE:{"@attributes":{"version":"1.0"},"response_code":"00","approval_code":"TAS590","auth_response_text":"NO  MATCH","avs_result_code":"N","cvv_result_code":{},"order_id":"140128-0801-01","response_text":"Approved."}
+-------------------------------------
+PayGate ERROR:
+response_code:
+response_reasib_text:
+-------------------------------------
+RESPONSE RAW: "<?xml version=\"1.0\" ?>\r\n<WebPaymentSoftwareResponse version=\"1.0\">\r\n<response_code>00<\/response_code>\r\n<approval_code>TAS627<\/approval_code>\r\n<auth_response_text>NO  MATCH<\/auth_response_text>\r\n<avs_result_code>N<\/avs_result_code>\r\n<cvv_result_code><\/cvv_result_code>\r\n<order_id>140128-0802-00<\/order_id>\r\n<response_text>Approved.<\/response_text>\r\n<\/WebPaymentSoftwareResponse>\r\n"
+
+RESPONSE:{"@attributes":{"version":"1.0"},"response_code":"00","approval_code":"TAS627","auth_response_text":"NO  MATCH","avs_result_code":"N","cvv_result_code":[],"order_id":"140128-0802-00","response_text":"Approved."}
+-------------------------------------
+PayGate ERROR:
+response_code:
+response_reasib_text:
+-------------------------------------
+RESPONSE RAW: "<?xml version=\"1.0\" ?>\r\n<WebPaymentSoftwareResponse version=\"1.0\">\r\n<response_code>00<\/response_code>\r\n<approval_code>TAS715<\/approval_code>\r\n<auth_response_text>NO  MATCH<\/auth_response_text>\r\n<avs_result_code>N<\/avs_result_code>\r\n<cvv_result_code><\/cvv_result_code>\r\n<order_id>140128-0804-00<\/order_id>\r\n<response_text>Approved.<\/response_text>\r\n<\/WebPaymentSoftwareResponse>\r\n"
+
+RESPONSE:{"@attributes":{"version":"1.0"},"response_code":"00","approval_code":"TAS715","auth_response_text":"NO  MATCH","avs_result_code":"N","cvv_result_code":[],"order_id":"140128-0804-00","response_text":"Approved."}
+-------------------------------------
+RESPONSE RAW: "<?xml version=\"1.0\" ?>\r\n<WebPaymentSoftwareResponse version=\"1.0\">\r\n<response_code>00<\/response_code>\r\n<approval_code>TAS754<\/approval_code>\r\n<auth_response_text>NO  MATCH<\/auth_response_text>\r\n<avs_result_code>N<\/avs_result_code>\r\n<cvv_result_code><\/cvv_result_code>\r\n<order_id>140128-0805-00<\/order_id>\r\n<response_text>Approved.<\/response_text>\r\n<\/WebPaymentSoftwareResponse>\r\n"
+
+RESPONSE:{"@attributes":{"version":"1.0"},"response_code":"00","approval_code":"TAS754","auth_response_text":"NO  MATCH","avs_result_code":"N","cvv_result_code":[],"order_id":"140128-0805-00","response_text":"Approved."}
+-------------------------------------
+RESPONSE RAW: "<?xml version=\"1.0\" ?>\r\n<WebPaymentSoftwareResponse version=\"1.0\">\r\n<response_code>00<\/response_code>\r\n<approval_code>TAS344<\/approval_code>\r\n<auth_response_text>NO  MATCH<\/auth_response_text>\r\n<avs_result_code>N<\/avs_result_code>\r\n<cvv_result_code><\/cvv_result_code>\r\n<order_id>140128-0822-00<\/order_id>\r\n<response_text>Approved.<\/response_text>\r\n<\/WebPaymentSoftwareResponse>\r\n"
+
+RESPONSE:{"@attributes":{"version":"1.0"},"response_code":"00","approval_code":"TAS344","auth_response_text":"NO  MATCH","avs_result_code":"N","cvv_result_code":[],"order_id":"140128-0822-00","response_text":"Approved."}
+-------------------------------------
+RESPONSE RAW: "<?xml version=\"1.0\" ?>\r\n<WebPaymentSoftwareResponse version=\"1.0\">\r\n<response_code>00<\/response_code>\r\n<approval_code>TAS119<\/approval_code>\r\n<auth_response_text>NO  MATCH<\/auth_response_text>\r\n<avs_result_code>N<\/avs_result_code>\r\n<cvv_result_code>M<\/cvv_result_code>\r\n<order_id>140129-0504-00<\/order_id>\r\n<response_text>Approved.<\/response_text>\r\n<\/WebPaymentSoftwareResponse>\r\n"
+
+RESPONSE:{"@attributes":{"version":"1.0"},"response_code":"00","approval_code":"TAS119","auth_response_text":"NO  MATCH","avs_result_code":"N","cvv_result_code":"M","order_id":"140129-0504-00","response_text":"Approved."}
+-------------------------------------
+RESPONSE RAW: "<?xml version=\"1.0\" ?>\r\n<WebPaymentSoftwareResponse version=\"1.0\">\r\n<response_code>00<\/response_code>\r\n<approval_code>TAS270<\/approval_code>\r\n<auth_response_text>NO  MATCH<\/auth_response_text>\r\n<avs_result_code>N<\/avs_result_code>\r\n<cvv_result_code>M<\/cvv_result_code>\r\n<order_id>140129-0512-00<\/order_id>\r\n<response_text>Approved.<\/response_text>\r\n<\/WebPaymentSoftwareResponse>\r\n"
+
+RESPONSE:{"@attributes":{"version":"1.0"},"response_code":"00","approval_code":"TAS270","auth_response_text":"NO  MATCH","avs_result_code":"N","cvv_result_code":"M","order_id":"140129-0512-00","response_text":"Approved."}
+-------------------------------------
+RESPONSE RAW: "<?xml version=\"1.0\" ?>\r\n<WebPaymentSoftwareResponse version=\"1.0\">\r\n<response_code>N7<\/response_code>\r\n<approval_code>      <\/approval_code>\r\n<auth_response_text>CVV2 MISMATCH<\/auth_response_text>\r\n<avs_result_code>Z<\/avs_result_code>\r\n<cvv_result_code>N<\/cvv_result_code>\r\n<order_id>140129-0529-00<\/order_id>\r\n<response_text>CVV2 mismatch. CVV2 value supplied is invalid.<\/response_text>\r\n<\/WebPaymentSoftwareResponse>\r\n"
+
+RESPONSE:{"@attributes":{"version":"1.0"},"response_code":"N7","approval_code":["      "],"auth_response_text":"CVV2 MISMATCH","avs_result_code":"Z","cvv_result_code":"N","order_id":"140129-0529-00","response_text":"CVV2 mismatch. CVV2 value supplied is invalid."}
+-------------------------------------
+PayGate ERROR:
+response_code:
+response_reasib_text:
+-------------------------------------
+RESPONSE RAW: "<?xml version=\"1.0\" ?>\r\n<WebPaymentSoftwareResponse version=\"1.0\">\r\n<response_code>N7<\/response_code>\r\n<approval_code>      <\/approval_code>\r\n<auth_response_text>CVV2 MISMATCH<\/auth_response_text>\r\n<avs_result_code>Z<\/avs_result_code>\r\n<cvv_result_code>N<\/cvv_result_code>\r\n<order_id>140129-0531-00<\/order_id>\r\n<response_text>CVV2 mismatch. CVV2 value supplied is invalid.<\/response_text>\r\n<\/WebPaymentSoftwareResponse>\r\n"
+
+RESPONSE:{"@attributes":{"version":"1.0"},"response_code":"N7","approval_code":["      "],"auth_response_text":"CVV2 MISMATCH","avs_result_code":"Z","cvv_result_code":"N","order_id":"140129-0531-00","response_text":"CVV2 mismatch. CVV2 value supplied is invalid."}
+-------------------------------------
+PayGate ERROR:
+response_code:N7
+response_reasib_text:CVV2 MISMATCH
+-------------------------------------
+RESPONSE RAW: "<?xml version=\"1.0\" ?>\r\n<WebPaymentSoftwareResponse version=\"1.0\">\r\n<response_code>N7<\/response_code>\r\n<approval_code>      <\/approval_code>\r\n<auth_response_text>CVV2 MISMATCH<\/auth_response_text>\r\n<avs_result_code>Y<\/avs_result_code>\r\n<cvv_result_code>N<\/cvv_result_code>\r\n<order_id>140129-0532-00<\/order_id>\r\n<response_text>CVV2 mismatch. CVV2 value supplied is invalid.<\/response_text>\r\n<\/WebPaymentSoftwareResponse>\r\n"
+
+RESPONSE:{"@attributes":{"version":"1.0"},"response_code":"N7","approval_code":["      "],"auth_response_text":"CVV2 MISMATCH","avs_result_code":"Y","cvv_result_code":"N","order_id":"140129-0532-00","response_text":"CVV2 mismatch. CVV2 value supplied is invalid."}
+-------------------------------------
+PayGate ERROR:
+response_code:N7
+response_reasib_text:CVV2 MISMATCH
+-------------------------------------
+RESPONSE RAW: "<?xml version=\"1.0\" ?>\r\n<WebPaymentSoftwareResponse version=\"1.0\">\r\n<response_code>N7<\/response_code>\r\n<approval_code>      <\/approval_code>\r\n<auth_response_text>CVV2 MISMATCH<\/auth_response_text>\r\n<avs_result_code>Y<\/avs_result_code>\r\n<cvv_result_code>N<\/cvv_result_code>\r\n<order_id>140129-0536-00<\/order_id>\r\n<response_text>CVV2 mismatch. CVV2 value supplied is invalid.<\/response_text>\r\n<\/WebPaymentSoftwareResponse>\r\n"
+
+RESPONSE:{"@attributes":{"version":"1.0"},"response_code":"N7","approval_code":["      "],"auth_response_text":"CVV2 MISMATCH","avs_result_code":"Y","cvv_result_code":"N","order_id":"140129-0536-00","response_text":"CVV2 mismatch. CVV2 value supplied is invalid."}
+-------------------------------------
+PayGate ERROR:
+response_code:N7
+response_reasib_text:CVV2 MISMATCH
+-------------------------------------
+RESPONSE RAW: "<?xml version=\"1.0\" ?>\r\n<WebPaymentSoftwareResponse version=\"1.0\">\r\n<response_code>N7<\/response_code>\r\n<approval_code>      <\/approval_code>\r\n<auth_response_text>CVV2 MISMATCH<\/auth_response_text>\r\n<avs_result_code>Y<\/avs_result_code>\r\n<cvv_result_code>N<\/cvv_result_code>\r\n<order_id>140129-0537-00<\/order_id>\r\n<response_text>CVV2 mismatch. CVV2 value supplied is invalid.<\/response_text>\r\n<\/WebPaymentSoftwareResponse>\r\n"
+
+RESPONSE:{"@attributes":{"version":"1.0"},"response_code":"N7","approval_code":["      "],"auth_response_text":"CVV2 MISMATCH","avs_result_code":"Y","cvv_result_code":"N","order_id":"140129-0537-00","response_text":"CVV2 mismatch. CVV2 value supplied is invalid."}
+-------------------------------------
+PayGate ERROR:
+response_code:N7
+response_reasib_text:CVV2 MISMATCH
+-------------------------------------
+RESPONSE RAW: "<?xml version=\"1.0\" ?>\r\n<WebPaymentSoftwareResponse version=\"1.0\">\r\n<response_code>N7<\/response_code>\r\n<approval_code>      <\/approval_code>\r\n<auth_response_text>CVV2 MISMATCH<\/auth_response_text>\r\n<avs_result_code>Y<\/avs_result_code>\r\n<cvv_result_code>N<\/cvv_result_code>\r\n<order_id>140129-0538-00<\/order_id>\r\n<response_text>CVV2 mismatch. CVV2 value supplied is invalid.<\/response_text>\r\n<\/WebPaymentSoftwareResponse>\r\n"
+
+RESPONSE:{"@attributes":{"version":"1.0"},"response_code":"N7","approval_code":["      "],"auth_response_text":"CVV2 MISMATCH","avs_result_code":"Y","cvv_result_code":"N","order_id":"140129-0538-00","response_text":"CVV2 mismatch. CVV2 value supplied is invalid."}
+-------------------------------------
+PayGate ERROR:
+response_code:N7
+response_reasib_text:CVV2 MISMATCH
+-------------------------------------
+RESPONSE RAW: "<?xml version=\"1.0\" ?>\r\n<WebPaymentSoftwareResponse version=\"1.0\">\r\n<response_code>00<\/response_code>\r\n<approval_code>TAS759<\/approval_code>\r\n<auth_response_text>EXACT MATCH<\/auth_response_text>\r\n<avs_result_code>Y<\/avs_result_code>\r\n<cvv_result_code>M<\/cvv_result_code>\r\n<order_id>140129-0538-01<\/order_id>\r\n<response_text>Approved.<\/response_text>\r\n<\/WebPaymentSoftwareResponse>\r\n"
+
+RESPONSE:{"@attributes":{"version":"1.0"},"response_code":"00","approval_code":"TAS759","auth_response_text":"EXACT MATCH","avs_result_code":"Y","cvv_result_code":"M","order_id":"140129-0538-01","response_text":"Approved."}
+-------------------------------------
+RESPONSE RAW: "<?xml version=\"1.0\" ?>\r\n<WebPaymentSoftwareResponse version=\"1.0\">\r\n<response_code>EC<\/response_code>\r\n<approval_code>      <\/approval_code>\r\n<auth_response_text>CID FORMAT ERROR<\/auth_response_text>\r\n<avs_result_code>Z<\/avs_result_code>\r\n<cvv_result_code>N<\/cvv_result_code>\r\n<order_id>140129-0545-00<\/order_id>\r\n<response_text>American Express CID format error. Verification error.<\/response_text>\r\n<\/WebPaymentSoftwareResponse>\r\n"
+
+RESPONSE:{"@attributes":{"version":"1.0"},"response_code":"EC","approval_code":["      "],"auth_response_text":"CID FORMAT ERROR","avs_result_code":"Z","cvv_result_code":"N","order_id":"140129-0545-00","response_text":"American Express CID format error. Verification error."}
+-------------------------------------
+PayGate ERROR:
+response_code:EC
+response_reasib_text:CID FORMAT ERROR
+-------------------------------------
+RESPONSE RAW: "<?xml version=\"1.0\" ?>\r\n<WebPaymentSoftwareResponse version=\"1.0\">\r\n<response_code>EC<\/response_code>\r\n<approval_code>      <\/approval_code>\r\n<auth_response_text>CID FORMAT ERROR<\/auth_response_text>\r\n<avs_result_code>Z<\/avs_result_code>\r\n<cvv_result_code>N<\/cvv_result_code>\r\n<order_id>140129-0546-00<\/order_id>\r\n<response_text>American Express CID format error. Verification error.<\/response_text>\r\n<\/WebPaymentSoftwareResponse>\r\n"
+
+RESPONSE:{"@attributes":{"version":"1.0"},"response_code":"EC","approval_code":["      "],"auth_response_text":"CID FORMAT ERROR","avs_result_code":"Z","cvv_result_code":"N","order_id":"140129-0546-00","response_text":"American Express CID format error. Verification error."}
+-------------------------------------
+PayGate ERROR:
+response_code:EC
+response_reasib_text:CID FORMAT ERROR
+-------------------------------------
+RESPONSE RAW: "<?xml version=\"1.0\" ?>\r\n<WebPaymentSoftwareResponse version=\"1.0\">\r\n<response_code>EC<\/response_code>\r\n<approval_code>      <\/approval_code>\r\n<auth_response_text>CID FORMAT ERROR<\/auth_response_text>\r\n<avs_result_code>Z<\/avs_result_code>\r\n<cvv_result_code>N<\/cvv_result_code>\r\n<order_id>140129-0546-01<\/order_id>\r\n<response_text>American Express CID format error. Verification error.<\/response_text>\r\n<\/WebPaymentSoftwareResponse>\r\n"
+
+RESPONSE:{"@attributes":{"version":"1.0"},"response_code":"EC","approval_code":["      "],"auth_response_text":"CID FORMAT ERROR","avs_result_code":"Z","cvv_result_code":"N","order_id":"140129-0546-01","response_text":"American Express CID format error. Verification error."}
+-------------------------------------
+PayGate ERROR:
+response_code:EC
+response_reasib_text:CID FORMAT ERROR
+-------------------------------------
+RESPONSE RAW: "<?xml version=\"1.0\" ?>\r\n<WebPaymentSoftwareResponse version=\"1.0\">\r\n<response_code>EC<\/response_code>\r\n<approval_code>      <\/approval_code>\r\n<auth_response_text>CID FORMAT ERROR<\/auth_response_text>\r\n<avs_result_code>Z<\/avs_result_code>\r\n<cvv_result_code>N<\/cvv_result_code>\r\n<order_id>140129-0547-00<\/order_id>\r\n<response_text>American Express CID format error. Verification error.<\/response_text>\r\n<\/WebPaymentSoftwareResponse>\r\n"
+
+RESPONSE:{"@attributes":{"version":"1.0"},"response_code":"EC","approval_code":["      "],"auth_response_text":"CID FORMAT ERROR","avs_result_code":"Z","cvv_result_code":"N","order_id":"140129-0547-00","response_text":"American Express CID format error. Verification error."}
+-------------------------------------
+PayGate ERROR:
+response_code:EC
+response_reasib_text:CID FORMAT ERROR
+-------------------------------------
+RESPONSE RAW: "<?xml version=\"1.0\" ?>\r\n<WebPaymentSoftwareResponse version=\"1.0\">\r\n<response_code>00<\/response_code>\r\n<approval_code>TAS911<\/approval_code>\r\n<auth_response_text>EXACT MATCH<\/auth_response_text>\r\n<avs_result_code>Y<\/avs_result_code>\r\n<cvv_result_code>M<\/cvv_result_code>\r\n<order_id>140129-0547-01<\/order_id>\r\n<response_text>Approved.<\/response_text>\r\n<\/WebPaymentSoftwareResponse>\r\n"
+
+RESPONSE:{"@attributes":{"version":"1.0"},"response_code":"00","approval_code":"TAS911","auth_response_text":"EXACT MATCH","avs_result_code":"Y","cvv_result_code":"M","order_id":"140129-0547-01","response_text":"Approved."}
+-------------------------------------
+RESPONSE RAW: "<?xml version=\"1.0\" ?>\r\n<WebPaymentSoftwareResponse version=\"1.0\">\r\n<response_code>01<\/response_code>\r\n<approval_code>      <\/approval_code>\r\n<auth_response_text>CALL<\/auth_response_text>\r\n<avs_result_code>Y<\/avs_result_code>\r\n<cvv_result_code>M<\/cvv_result_code>\r\n<order_id>140129-0549-00<\/order_id>\r\n<response_text>Input error.<\/response_text>\r\n<\/WebPaymentSoftwareResponse>\r\n"
+
+RESPONSE:{"@attributes":{"version":"1.0"},"response_code":"01","approval_code":["      "],"auth_response_text":"CALL","avs_result_code":"Y","cvv_result_code":"M","order_id":"140129-0549-00","response_text":"Input error."}
+-------------------------------------
+PayGate ERROR:
+response_code:01
+response_reasib_text:CALL
+-------------------------------------
+RESPONSE RAW: "<?xml version=\"1.0\" ?>\r\n<WebPaymentSoftwareResponse version=\"1.0\">\r\n<response_code>01<\/response_code>\r\n<approval_code>      <\/approval_code>\r\n<auth_response_text>CALL<\/auth_response_text>\r\n<avs_result_code>Y<\/avs_result_code>\r\n<cvv_result_code>M<\/cvv_result_code>\r\n<order_id>140129-0737-00<\/order_id>\r\n<response_text>Input error.<\/response_text>\r\n<\/WebPaymentSoftwareResponse>\r\n"
+
+RESPONSE:{"@attributes":{"version":"1.0"},"response_code":"01","approval_code":["      "],"auth_response_text":"CALL","avs_result_code":"Y","cvv_result_code":"M","order_id":"140129-0737-00","response_text":"Input error."}
+-------------------------------------
+PayGate ERROR:
+response_code:01
+response_reasib_text:CALL
+-------------------------------------
+RESPONSE RAW: "<?xml version=\"1.0\" ?>\r\n<WebPaymentSoftwareResponse version=\"1.0\">\r\n<response_code>01<\/response_code>\r\n<approval_code>      <\/approval_code>\r\n<auth_response_text>CALL<\/auth_response_text>\r\n<avs_result_code>Y<\/avs_result_code>\r\n<cvv_result_code>M<\/cvv_result_code>\r\n<order_id>140129-0741-00<\/order_id>\r\n<response_text>Input error.<\/response_text>\r\n<\/WebPaymentSoftwareResponse>\r\n"
+
+RESPONSE:{"@attributes":{"version":"1.0"},"response_code":"01","approval_code":["      "],"auth_response_text":"CALL","avs_result_code":"Y","cvv_result_code":"M","order_id":"140129-0741-00","response_text":"Input error."}
+-------------------------------------
+PayGate ERROR:
+response_code:01
+response_reasib_text:CALL
+-------------------------------------
+RESPONSE RAW: "<?xml version=\"1.0\" ?>\r\n<WebPaymentSoftwareResponse version=\"1.0\">\r\n<response_code>01<\/response_code>\r\n<approval_code>      <\/approval_code>\r\n<auth_response_text>CALL<\/auth_response_text>\r\n<avs_result_code>Y<\/avs_result_code>\r\n<cvv_result_code>M<\/cvv_result_code>\r\n<order_id>140129-0743-00<\/order_id>\r\n<response_text>Input error.<\/response_text>\r\n<\/WebPaymentSoftwareResponse>\r\n"
+
+RESPONSE:{"@attributes":{"version":"1.0"},"response_code":"01","approval_code":["      "],"auth_response_text":"CALL","avs_result_code":"Y","cvv_result_code":"M","order_id":"140129-0743-00","response_text":"Input error."}
+-------------------------------------
+PayGate ERROR:
+response_code:01
+response_reasib_text:CALL
+-------------------------------------
+RESPONSE RAW: "<?xml version=\"1.0\" ?>\r\n<WebPaymentSoftwareResponse version=\"1.0\">\r\n<response_code>01<\/response_code>\r\n<approval_code>      <\/approval_code>\r\n<auth_response_text>CALL<\/auth_response_text>\r\n<avs_result_code>Y<\/avs_result_code>\r\n<cvv_result_code>M<\/cvv_result_code>\r\n<order_id>140129-0745-00<\/order_id>\r\n<response_text>Input error.<\/response_text>\r\n<\/WebPaymentSoftwareResponse>\r\n"
+
+RESPONSE:{"@attributes":{"version":"1.0"},"response_code":"01","approval_code":["      "],"auth_response_text":"CALL","avs_result_code":"Y","cvv_result_code":"M","order_id":"140129-0745-00","response_text":"Input error."}
+-------------------------------------
+PayGate ERROR:
+response_code:01
+response_reasib_text:CALL
+-------------------------------------
+RESPONSE RAW: "<?xml version=\"1.0\" ?>\r\n<WebPaymentSoftwareResponse version=\"1.0\">\r\n<response_code>01<\/response_code>\r\n<approval_code>      <\/approval_code>\r\n<auth_response_text>CALL<\/auth_response_text>\r\n<avs_result_code>Y<\/avs_result_code>\r\n<cvv_result_code>M<\/cvv_result_code>\r\n<order_id>140129-0745-01<\/order_id>\r\n<response_text>Input error.<\/response_text>\r\n<\/WebPaymentSoftwareResponse>\r\n"
+
+RESPONSE:{"@attributes":{"version":"1.0"},"response_code":"01","approval_code":["      "],"auth_response_text":"CALL","avs_result_code":"Y","cvv_result_code":"M","order_id":"140129-0745-01","response_text":"Input error."}
+-------------------------------------
+PayGate ERROR:
+response_code:01
+response_reasib_text:CALL
+-------------------------------------
+RESPONSE RAW: "<?xml version=\"1.0\" ?>\r\n<WebPaymentSoftwareResponse version=\"1.0\">\r\n<response_code>01<\/response_code>\r\n<approval_code>      <\/approval_code>\r\n<auth_response_text>CALL<\/auth_response_text>\r\n<avs_result_code>Y<\/avs_result_code>\r\n<cvv_result_code>M<\/cvv_result_code>\r\n<order_id>140129-0747-00<\/order_id>\r\n<response_text>Input error.<\/response_text>\r\n<\/WebPaymentSoftwareResponse>\r\n"
+
+RESPONSE:{"@attributes":{"version":"1.0"},"response_code":"01","approval_code":["      "],"auth_response_text":"CALL","avs_result_code":"Y","cvv_result_code":"M","order_id":"140129-0747-00","response_text":"Input error."}
+-------------------------------------
+PayGate ERROR:
+response_code:01
+response_reasib_text:CALL
+-------------------------------------
+RESPONSE RAW: "<?xml version=\"1.0\" ?>\r\n<WebPaymentSoftwareResponse version=\"1.0\">\r\n<response_code>01<\/response_code>\r\n<approval_code>      <\/approval_code>\r\n<auth_response_text>CALL<\/auth_response_text>\r\n<avs_result_code>Y<\/avs_result_code>\r\n<cvv_result_code>M<\/cvv_result_code>\r\n<order_id>140129-0747-01<\/order_id>\r\n<response_text>Input error.<\/response_text>\r\n<\/WebPaymentSoftwareResponse>\r\n"
+
+RESPONSE:{"@attributes":{"version":"1.0"},"response_code":"01","approval_code":["      "],"auth_response_text":"CALL","avs_result_code":"Y","cvv_result_code":"M","order_id":"140129-0747-01","response_text":"Input error."}
+-------------------------------------
+PayGate ERROR:
+response_code:01
+response_reasib_text:CALL
+-------------------------------------
+RESPONSE RAW: "<?xml version=\"1.0\" ?>\r\n<WebPaymentSoftwareResponse version=\"1.0\">\r\n<response_code>01<\/response_code>\r\n<approval_code>      <\/approval_code>\r\n<auth_response_text>CALL<\/auth_response_text>\r\n<avs_result_code>Y<\/avs_result_code>\r\n<cvv_result_code>M<\/cvv_result_code>\r\n<order_id>140129-0748-00<\/order_id>\r\n<response_text>Input error.<\/response_text>\r\n<\/WebPaymentSoftwareResponse>\r\n"
+
+RESPONSE:{"@attributes":{"version":"1.0"},"response_code":"01","approval_code":["      "],"auth_response_text":"CALL","avs_result_code":"Y","cvv_result_code":"M","order_id":"140129-0748-00","response_text":"Input error."}
+-------------------------------------
+PayGate ERROR:
+response_code:01
+response_reasib_text:CALL
+-------------------------------------
+RESPONSE RAW: "<?xml version=\"1.0\" ?>\r\n<WebPaymentSoftwareResponse version=\"1.0\">\r\n<response_code>01<\/response_code>\r\n<approval_code>      <\/approval_code>\r\n<auth_response_text>CALL<\/auth_response_text>\r\n<avs_result_code>Y<\/avs_result_code>\r\n<cvv_result_code>M<\/cvv_result_code>\r\n<order_id>140129-0751-00<\/order_id>\r\n<response_text>Input error.<\/response_text>\r\n<\/WebPaymentSoftwareResponse>\r\n"
+
+RESPONSE:{"@attributes":{"version":"1.0"},"response_code":"01","approval_code":["      "],"auth_response_text":"CALL","avs_result_code":"Y","cvv_result_code":"M","order_id":"140129-0751-00","response_text":"Input error."}
+-------------------------------------
+PayGate ERROR:
+response_code:01
+response_reasib_text:CALL
+-------------------------------------
+RESPONSE RAW: "<?xml version=\"1.0\" ?>\r\n<WebPaymentSoftwareResponse version=\"1.0\">\r\n<response_code>01<\/response_code>\r\n<approval_code>      <\/approval_code>\r\n<auth_response_text>CALL<\/auth_response_text>\r\n<avs_result_code>Y<\/avs_result_code>\r\n<cvv_result_code>M<\/cvv_result_code>\r\n<order_id>140129-0752-00<\/order_id>\r\n<response_text>Input error.<\/response_text>\r\n<\/WebPaymentSoftwareResponse>\r\n"
+
+RESPONSE:{"@attributes":{"version":"1.0"},"response_code":"01","approval_code":["      "],"auth_response_text":"CALL","avs_result_code":"Y","cvv_result_code":"M","order_id":"140129-0752-00","response_text":"Input error."}
+-------------------------------------
+PayGate ERROR:
+response_code:01
+response_reasib_text:CALL
+-------------------------------------
+RESPONSE RAW: "<?xml version=\"1.0\" ?>\r\n<WebPaymentSoftwareResponse version=\"1.0\">\r\n<response_code>01<\/response_code>\r\n<approval_code>      <\/approval_code>\r\n<auth_response_text>CALL<\/auth_response_text>\r\n<avs_result_code>Y<\/avs_result_code>\r\n<cvv_result_code>M<\/cvv_result_code>\r\n<order_id>140129-0758-00<\/order_id>\r\n<response_text>Input error.<\/response_text>\r\n<\/WebPaymentSoftwareResponse>\r\n"
+
+RESPONSE:{"@attributes":{"version":"1.0"},"response_code":"01","approval_code":["      "],"auth_response_text":"CALL","avs_result_code":"Y","cvv_result_code":"M","order_id":"140129-0758-00","response_text":"Input error."}
+-------------------------------------
+PayGate ERROR:
+response_code:01
+response_reasib_text:CALL
+-------------------------------------
+RESPONSE RAW: "<?xml version=\"1.0\" ?>\r\n<WebPaymentSoftwareResponse version=\"1.0\">\r\n<response_code>01<\/response_code>\r\n<approval_code>      <\/approval_code>\r\n<auth_response_text>CALL<\/auth_response_text>\r\n<avs_result_code>Y<\/avs_result_code>\r\n<cvv_result_code>M<\/cvv_result_code>\r\n<order_id>140129-0759-00<\/order_id>\r\n<response_text>Input error.<\/response_text>\r\n<\/WebPaymentSoftwareResponse>\r\n"
+
+RESPONSE:{"@attributes":{"version":"1.0"},"response_code":"01","approval_code":["      "],"auth_response_text":"CALL","avs_result_code":"Y","cvv_result_code":"M","order_id":"140129-0759-00","response_text":"Input error."}
+-------------------------------------
+PayGate ERROR:
+response_code:01
+response_reasib_text:CALL
+-------------------------------------
+RESPONSE RAW: "<?xml version=\"1.0\" ?>\r\n<WebPaymentSoftwareResponse version=\"1.0\">\r\n<response_code>01<\/response_code>\r\n<approval_code>      <\/approval_code>\r\n<auth_response_text>CALL<\/auth_response_text>\r\n<avs_result_code>Y<\/avs_result_code>\r\n<cvv_result_code>M<\/cvv_result_code>\r\n<order_id>140129-0814-00<\/order_id>\r\n<response_text>Input error.<\/response_text>\r\n<\/WebPaymentSoftwareResponse>\r\n"
+
+RESPONSE:{"@attributes":{"version":"1.0"},"response_code":"01","approval_code":["      "],"auth_response_text":"CALL","avs_result_code":"Y","cvv_result_code":"M","order_id":"140129-0814-00","response_text":"Input error."}
+-------------------------------------
+PayGate ERROR:
+response_code:01
+response_reasib_text:CALL Or Input error.
+-------------------------------------
+RESPONSE RAW: "<?xml version=\"1.0\" ?>\r\n<WebPaymentSoftwareResponse version=\"1.0\">\r\n<response_code>01<\/response_code>\r\n<approval_code>      <\/approval_code>\r\n<auth_response_text>CALL<\/auth_response_text>\r\n<avs_result_code>Y<\/avs_result_code>\r\n<cvv_result_code>M<\/cvv_result_code>\r\n<order_id>140129-0814-01<\/order_id>\r\n<response_text>Input error.<\/response_text>\r\n<\/WebPaymentSoftwareResponse>\r\n"
+
+RESPONSE:{"@attributes":{"version":"1.0"},"response_code":"01","approval_code":["      "],"auth_response_text":"CALL","avs_result_code":"Y","cvv_result_code":"M","order_id":"140129-0814-01","response_text":"Input error."}
+-------------------------------------
+PayGate ERROR:
+response_code:01
+response_reasib_text:CALL Or Input error.
+-------------------------------------
+RESPONSE RAW: "<?xml version=\"1.0\" ?>\r\n<WebPaymentSoftwareResponse version=\"1.0\">\r\n<response_code>00<\/response_code>\r\n<approval_code>TAS250<\/approval_code>\r\n<auth_response_text>EXACT MATCH<\/auth_response_text>\r\n<avs_result_code>Y<\/avs_result_code>\r\n<cvv_result_code>M<\/cvv_result_code>\r\n<order_id>140129-0815-00<\/order_id>\r\n<response_text>Approved.<\/response_text>\r\n<\/WebPaymentSoftwareResponse>\r\n"
+
+RESPONSE:{"@attributes":{"version":"1.0"},"response_code":"00","approval_code":"TAS250","auth_response_text":"EXACT MATCH","avs_result_code":"Y","cvv_result_code":"M","order_id":"140129-0815-00","response_text":"Approved."}
+-------------------------------------
+RESPONSE RAW: "<?xml version=\"1.0\" ?>\r\n<WebPaymentSoftwareResponse version=\"1.0\">\r\n<response_code>102<\/response_code>\r\n<\/WebPaymentSoftwareResponse>\r\n"
+
+RESPONSE:{"@attributes":{"version":"1.0"},"response_code":"102"}
+-------------------------------------
+PayGate ERROR:
+response_code:102
+response_reasib_text: Or 
+-------------------------------------
+RESPONSE RAW: "<?xml version=\"1.0\" ?>\r\n<WebPaymentSoftwareResponse version=\"1.0\">\r\n<response_code>102<\/response_code>\r\n<\/WebPaymentSoftwareResponse>\r\n"
+
+RESPONSE:{"@attributes":{"version":"1.0"},"response_code":"102"}
+-------------------------------------
+PayGate ERROR:
+response_code:102
+response_reasib_text: Or 
+-------------------------------------
+RESPONSE RAW: "<?xml version=\"1.0\" ?>\r\n<WebPaymentSoftwareResponse version=\"1.0\">\r\n<order_id>140129-0815-00<\/order_id>\r\n<response_code>00<\/response_code>\r\n<response_text>Approved.<\/response_text>\r\n<\/WebPaymentSoftwareResponse>\r\n"
+
+RESPONSE:{"@attributes":{"version":"1.0"},"order_id":"140129-0815-00","response_code":"00","response_text":"Approved."}
+-------------------------------------
+RESPONSE RAW: "<?xml version=\"1.0\" ?>\r\n<WebPaymentSoftwareResponse version=\"1.0\">\r\n<order_id>140129-0815-00<\/order_id>\r\n<response_code>00<\/response_code>\r\n<response_text>Approved.<\/response_text>\r\n<\/WebPaymentSoftwareResponse>\r\n"
+
+RESPONSE:{"@attributes":{"version":"1.0"},"order_id":"140129-0815-00","response_code":"00","response_text":"Approved."}
+-------------------------------------
+RESPONSE RAW: "<?xml version=\"1.0\" ?>\r\n<WebPaymentSoftwareResponse version=\"1.0\">\r\n<response_code>00<\/response_code>\r\n<approval_code>TAS195<\/approval_code>\r\n<auth_response_text>EXACT MATCH<\/auth_response_text>\r\n<avs_result_code>Y<\/avs_result_code>\r\n<cvv_result_code>M<\/cvv_result_code>\r\n<order_id>140129-0918-00<\/order_id>\r\n<response_text>Approved.<\/response_text>\r\n<\/WebPaymentSoftwareResponse>\r\n"
+
+RESPONSE:{"@attributes":{"version":"1.0"},"response_code":"00","approval_code":"TAS195","auth_response_text":"EXACT MATCH","avs_result_code":"Y","cvv_result_code":"M","order_id":"140129-0918-00","response_text":"Approved."}
+-------------------------------------
+RESPONSE RAW: "<?xml version=\"1.0\" ?>\r\n<WebPaymentSoftwareResponse version=\"1.0\">\r\n<order_id>140129-0918-00<\/order_id>\r\n<response_code>00<\/response_code>\r\n<response_text>Approved.<\/response_text>\r\n<\/WebPaymentSoftwareResponse>\r\n"
+
+RESPONSE:{"@attributes":{"version":"1.0"},"order_id":"140129-0918-00","response_code":"00","response_text":"Approved."}
+-------------------------------------
+RESPONSE RAW: "<?xml version=\"1.0\" ?>\r\n<WebPaymentSoftwareResponse version=\"1.0\">\r\n<response_code>00<\/response_code>\r\n<approval_code>TAS605<\/approval_code>\r\n<auth_response_text>EXACT MATCH<\/auth_response_text>\r\n<avs_result_code>Y<\/avs_result_code>\r\n<cvv_result_code>M<\/cvv_result_code>\r\n<order_id>140130-0043-00<\/order_id>\r\n<response_text>Approved.<\/response_text>\r\n<\/WebPaymentSoftwareResponse>\r\n"
+
+RESPONSE:{"@attributes":{"version":"1.0"},"response_code":"00","approval_code":"TAS605","auth_response_text":"EXACT MATCH","avs_result_code":"Y","cvv_result_code":"M","order_id":"140130-0043-00","response_text":"Approved."}
+-------------------------------------
+RESPONSE RAW: "<?xml version=\"1.0\" ?>\r\n<WebPaymentSoftwareResponse version=\"1.0\">\r\n<order_id>140130-0043-00<\/order_id>\r\n<response_code>00<\/response_code>\r\n<response_text>Approved.<\/response_text>\r\n<\/WebPaymentSoftwareResponse>\r\n"
+
+RESPONSE:{"@attributes":{"version":"1.0"},"order_id":"140130-0043-00","response_code":"00","response_text":"Approved."}
+-------------------------------------
+RESPONSE RAW: "<?xml version=\"1.0\" ?>\r\n<WebPaymentSoftwareResponse version=\"1.0\">\r\n<response_code>N7<\/response_code>\r\n<approval_code>      <\/approval_code>\r\n<auth_response_text>CVV2 MISMATCH<\/auth_response_text>\r\n<avs_result_code>Y<\/avs_result_code>\r\n<cvv_result_code>N<\/cvv_result_code>\r\n<order_id>140130-0053-00<\/order_id>\r\n<response_text>CVV2 mismatch. CVV2 value supplied is invalid.<\/response_text>\r\n<\/WebPaymentSoftwareResponse>\r\n"
+
+RESPONSE:{"@attributes":{"version":"1.0"},"response_code":"N7","approval_code":["      "],"auth_response_text":"CVV2 MISMATCH","avs_result_code":"Y","cvv_result_code":"N","order_id":"140130-0053-00","response_text":"CVV2 mismatch. CVV2 value supplied is invalid."}
+-------------------------------------
+PayGate ERROR:
+response_code:N7
+response_reasib_text:CVV2 MISMATCH Or CVV2 mismatch. CVV2 value supplied is invalid.
+-------------------------------------
+RESPONSE RAW: "<?xml version=\"1.0\" ?>\r\n<WebPaymentSoftwareResponse version=\"1.0\">\r\n<response_code>00<\/response_code>\r\n<approval_code>TAS715<\/approval_code>\r\n<auth_response_text>EXACT MATCH<\/auth_response_text>\r\n<avs_result_code>Y<\/avs_result_code>\r\n<cvv_result_code>M<\/cvv_result_code>\r\n<order_id>140130-0053-01<\/order_id>\r\n<response_text>Approved.<\/response_text>\r\n<\/WebPaymentSoftwareResponse>\r\n"
+
+RESPONSE:{"@attributes":{"version":"1.0"},"response_code":"00","approval_code":"TAS715","auth_response_text":"EXACT MATCH","avs_result_code":"Y","cvv_result_code":"M","order_id":"140130-0053-01","response_text":"Approved."}
+-------------------------------------
+RESPONSE RAW: "<?xml version=\"1.0\" ?>\r\n<WebPaymentSoftwareResponse version=\"1.0\">\r\n<response_code>N7<\/response_code>\r\n<approval_code>      <\/approval_code>\r\n<auth_response_text>CVV2 MISMATCH<\/auth_response_text>\r\n<avs_result_code>Y<\/avs_result_code>\r\n<cvv_result_code>N<\/cvv_result_code>\r\n<order_id>140201-0058-00<\/order_id>\r\n<response_text>CVV2 mismatch. CVV2 value supplied is invalid.<\/response_text>\r\n<\/WebPaymentSoftwareResponse>\r\n"
+
+RESPONSE:{"@attributes":{"version":"1.0"},"response_code":"N7","approval_code":["      "],"auth_response_text":"CVV2 MISMATCH","avs_result_code":"Y","cvv_result_code":"N","order_id":"140201-0058-00","response_text":"CVV2 mismatch. CVV2 value supplied is invalid."}
+-------------------------------------
+PayGate ERROR:
+response_code:N7
+response_reasib_text:CVV2 MISMATCH Or CVV2 mismatch. CVV2 value supplied is invalid.
+-------------------------------------
+RESPONSE RAW: "<?xml version=\"1.0\" ?>\r\n<WebPaymentSoftwareResponse version=\"1.0\">\r\n<response_code>171<\/response_code>\r\n<\/WebPaymentSoftwareResponse>\r\n"
+
+RESPONSE:{"@attributes":{"version":"1.0"},"response_code":"171"}
+-------------------------------------
+PayGate ERROR:
+response_code:171
+response_reasib_text: Or 
+-------------------------------------
+RESPONSE RAW: "<?xml version=\"1.0\" ?>\r\n<WebPaymentSoftwareResponse version=\"1.0\">\r\n<response_code>103<\/response_code>\r\n<response_text>Order_ID too long, missing, empty or invalid.<\/response_text>\r\n<\/WebPaymentSoftwareResponse>\r\n"
+
+RESPONSE:{"@attributes":{"version":"1.0"},"response_code":"103","response_text":"Order_ID too long, missing, empty or invalid."}
+-------------------------------------
+PayGate ERROR:
+response_code:103
+response_reasib_text: Or Order_ID too long, missing, empty or invalid.
+-------------------------------------
+RESPONSE RAW: "<?xml version=\"1.0\" ?>\r\n<WebPaymentSoftwareResponse version=\"1.0\">\r\n<response_code>00<\/response_code>\r\n<approval_code>TAS106<\/approval_code>\r\n<auth_response_text>EXACT MATCH<\/auth_response_text>\r\n<avs_result_code>Y<\/avs_result_code>\r\n<cvv_result_code>M<\/cvv_result_code>\r\n<order_id>140201-0451-00<\/order_id>\r\n<response_text>Approved.<\/response_text>\r\n<\/WebPaymentSoftwareResponse>\r\n"
+
+RESPONSE:{"@attributes":{"version":"1.0"},"response_code":"00","approval_code":"TAS106","auth_response_text":"EXACT MATCH","avs_result_code":"Y","cvv_result_code":"M","order_id":"140201-0451-00","response_text":"Approved."}
+-------------------------------------
+RESPONSE RAW: "<?xml version=\"1.0\" ?>\r\n<WebPaymentSoftwareResponse version=\"1.0\">\r\n<response_code>126<\/response_code>\r\n<response_text>Duplicate transaction error.<\/response_text>\r\n<\/WebPaymentSoftwareResponse>\r\n"
+
+RESPONSE:{"@attributes":{"version":"1.0"},"response_code":"126","response_text":"Duplicate transaction error."}
+-------------------------------------
+PayGate ERROR:
+response_code:126
+response_reasib_text: Or Duplicate transaction error.
+-------------------------------------
+RESPONSE RAW: "<?xml version=\"1.0\" ?>\r\n<WebPaymentSoftwareResponse version=\"1.0\">\r\n<response_code>171<\/response_code>\r\n<\/WebPaymentSoftwareResponse>\r\n"
+
+RESPONSE:{"@attributes":{"version":"1.0"},"response_code":"171"}
+-------------------------------------
+PayGate ERROR:
+response_code:171
+response_reasib_text: Or 
+-------------------------------------
+RESPONSE RAW: "<?xml version=\"1.0\" ?>\r\n<WebPaymentSoftwareResponse version=\"1.0\">\r\n<response_code>00<\/response_code>\r\n<approval_code>TAS952<\/approval_code>\r\n<auth_response_text>EXACT MATCH<\/auth_response_text>\r\n<avs_result_code>Y<\/avs_result_code>\r\n<cvv_result_code>M<\/cvv_result_code>\r\n<order_id>140201-0520-00<\/order_id>\r\n<response_text>Approved.<\/response_text>\r\n<\/WebPaymentSoftwareResponse>\r\n"
+
+RESPONSE:{"@attributes":{"version":"1.0"},"response_code":"00","approval_code":"TAS952","auth_response_text":"EXACT MATCH","avs_result_code":"Y","cvv_result_code":"M","order_id":"140201-0520-00","response_text":"Approved."}
+-------------------------------------
+RESPONSE RAW: "<?xml version=\"1.0\" ?>\r\n<WebPaymentSoftwareResponse version=\"1.0\">\r\n<order_id>140201-0520-00<\/order_id>\r\n<response_code>00<\/response_code>\r\n<response_text>Approved.<\/response_text>\r\n<\/WebPaymentSoftwareResponse>\r\n"
+
+RESPONSE:{"@attributes":{"version":"1.0"},"order_id":"140201-0520-00","response_code":"00","response_text":"Approved."}
+-------------------------------------
+RESPONSE RAW: "<?xml version=\"1.0\" ?>\r\n<WebPaymentSoftwareResponse version=\"1.0\">\r\n<order_id>140201-0520-00<\/order_id>\r\n<response_code>00<\/response_code>\r\n<response_text>Approved.<\/response_text>\r\n<\/WebPaymentSoftwareResponse>\r\n"
+
+RESPONSE:{"@attributes":{"version":"1.0"},"order_id":"140201-0520-00","response_code":"00","response_text":"Approved."}
+-------------------------------------
+RESPONSE RAW: "<?xml version=\"1.0\" ?>\r\n<WebPaymentSoftwareResponse version=\"1.0\">\r\n<order_id>140201-0520-00<\/order_id>\r\n<response_code>00<\/response_code>\r\n<response_text>Approved.<\/response_text>\r\n<\/WebPaymentSoftwareResponse>\r\n"
+
+RESPONSE:{"@attributes":{"version":"1.0"},"order_id":"140201-0520-00","response_code":"00","response_text":"Approved."}
+-------------------------------------
+RESPONSE RAW: "<?xml version=\"1.0\" ?>\r\n<WebPaymentSoftwareResponse version=\"1.0\">\r\n<order_id>140201-0520-00<\/order_id>\r\n<response_code>00<\/response_code>\r\n<response_text>Approved.<\/response_text>\r\n<\/WebPaymentSoftwareResponse>\r\n"
+
+RESPONSE:{"@attributes":{"version":"1.0"},"order_id":"140201-0520-00","response_code":"00","response_text":"Approved."}
+-------------------------------------
+RESPONSE RAW: "<?xml version=\"1.0\" ?>\r\n<WebPaymentSoftwareResponse version=\"1.0\">\r\n<order_id>140201-0520-00<\/order_id>\r\n<response_code>00<\/response_code>\r\n<response_text>Approved.<\/response_text>\r\n<\/WebPaymentSoftwareResponse>\r\n"
+
+RESPONSE:{"@attributes":{"version":"1.0"},"order_id":"140201-0520-00","response_code":"00","response_text":"Approved."}
+-------------------------------------
+RESPONSE RAW: "<?xml version=\"1.0\" ?>\r\n<WebPaymentSoftwareResponse version=\"1.0\">\r\n<response_code>00<\/response_code>\r\n<approval_code>TAS544<\/approval_code>\r\n<auth_response_text>EXACT MATCH<\/auth_response_text>\r\n<avs_result_code>Y<\/avs_result_code>\r\n<cvv_result_code>M<\/cvv_result_code>\r\n<order_id>140201-0544-00<\/order_id>\r\n<response_text>Approved.<\/response_text>\r\n<\/WebPaymentSoftwareResponse>\r\n"
+
+RESPONSE:{"@attributes":{"version":"1.0"},"response_code":"00","approval_code":"TAS544","auth_response_text":"EXACT MATCH","avs_result_code":"Y","cvv_result_code":"M","order_id":"140201-0544-00","response_text":"Approved."}
+-------------------------------------
+RESPONSE RAW: "<?xml version=\"1.0\" ?>\r\n<WebPaymentSoftwareResponse version=\"1.0\">\r\n<order_id>140201-0544-00<\/order_id>\r\n<response_code>00<\/response_code>\r\n<response_text>Approved.<\/response_text>\r\n<\/WebPaymentSoftwareResponse>\r\n"
+
+RESPONSE:{"@attributes":{"version":"1.0"},"order_id":"140201-0544-00","response_code":"00","response_text":"Approved."}
+-------------------------------------
+RESPONSE RAW: "<?xml version=\"1.0\" ?>\r\n<WebPaymentSoftwareResponse version=\"1.0\">\r\n<order_id>140201-0544-00<\/order_id>\r\n<response_code>00<\/response_code>\r\n<response_text>Approved.<\/response_text>\r\n<\/WebPaymentSoftwareResponse>\r\n"
+
+RESPONSE:{"@attributes":{"version":"1.0"},"order_id":"140201-0544-00","response_code":"00","response_text":"Approved."}
+-------------------------------------
+RESPONSE RAW: "<?xml version=\"1.0\" ?>\r\n<WebPaymentSoftwareResponse version=\"1.0\">\r\n<order_id>140201-0544-00<\/order_id>\r\n<response_code>00<\/response_code>\r\n<response_text>Approved.<\/response_text>\r\n<\/WebPaymentSoftwareResponse>\r\n"
+
+RESPONSE:{"@attributes":{"version":"1.0"},"order_id":"140201-0544-00","response_code":"00","response_text":"Approved."}
+-------------------------------------
+RESPONSE RAW: "<?xml version=\"1.0\" ?>\r\n<WebPaymentSoftwareResponse version=\"1.0\">\r\n<response_code>103<\/response_code>\r\n<response_text>Order_ID too long, missing, empty or invalid.<\/response_text>\r\n<\/WebPaymentSoftwareResponse>\r\n"
+
+RESPONSE:{"@attributes":{"version":"1.0"},"response_code":"103","response_text":"Order_ID too long, missing, empty or invalid."}
+-------------------------------------
+PayGate ERROR:
+response_code:103
+response_reasib_text: Or Order_ID too long, missing, empty or invalid.
+-------------------------------------
+RESPONSE RAW: "<?xml version=\"1.0\" ?>\r\n<WebPaymentSoftwareResponse version=\"1.0\">\r\n<response_code>00<\/response_code>\r\n<approval_code>TAS117<\/approval_code>\r\n<auth_response_text>EXACT MATCH<\/auth_response_text>\r\n<avs_result_code>Y<\/avs_result_code>\r\n<cvv_result_code>M<\/cvv_result_code>\r\n<order_id>140203-0039-00<\/order_id>\r\n<response_text>Approved.<\/response_text>\r\n<\/WebPaymentSoftwareResponse>\r\n"
+
+RESPONSE:{"@attributes":{"version":"1.0"},"response_code":"00","approval_code":"TAS117","auth_response_text":"EXACT MATCH","avs_result_code":"Y","cvv_result_code":"M","order_id":"140203-0039-00","response_text":"Approved."}
+-------------------------------------
+RESPONSE RAW: "<?xml version=\"1.0\" ?>\r\n<WebPaymentSoftwareResponse version=\"1.0\">\r\n<order_id>140203-0039-00<\/order_id>\r\n<response_code>00<\/response_code>\r\n<response_text>Approved.<\/response_text>\r\n<\/WebPaymentSoftwareResponse>\r\n"
+
+RESPONSE:{"@attributes":{"version":"1.0"},"order_id":"140203-0039-00","response_code":"00","response_text":"Approved."}
+-------------------------------------
+RESPONSE RAW: "<?xml version=\"1.0\" ?>\r\n<WebPaymentSoftwareResponse version=\"1.0\">\r\n<order_id>140203-0039-00<\/order_id>\r\n<response_code>00<\/response_code>\r\n<response_text>Approved.<\/response_text>\r\n<\/WebPaymentSoftwareResponse>\r\n"
+
+RESPONSE:{"@attributes":{"version":"1.0"},"order_id":"140203-0039-00","response_code":"00","response_text":"Approved."}
+-------------------------------------
+RESPONSE RAW: "<?xml version=\"1.0\" ?>\r\n<WebPaymentSoftwareResponse version=\"1.0\">\r\n<response_code>00<\/response_code>\r\n<approval_code>TAS485<\/approval_code>\r\n<auth_response_text>EXACT MATCH<\/auth_response_text>\r\n<avs_result_code>Y<\/avs_result_code>\r\n<cvv_result_code>M<\/cvv_result_code>\r\n<order_id>140203-0101-00<\/order_id>\r\n<response_text>Approved.<\/response_text>\r\n<\/WebPaymentSoftwareResponse>\r\n"
+
+RESPONSE:{"@attributes":{"version":"1.0"},"response_code":"00","approval_code":"TAS485","auth_response_text":"EXACT MATCH","avs_result_code":"Y","cvv_result_code":"M","order_id":"140203-0101-00","response_text":"Approved."}
+-------------------------------------
+RESPONSE RAW: "<?xml version=\"1.0\" ?>\r\n<WebPaymentSoftwareResponse version=\"1.0\">\r\n<order_id>140203-0101-00<\/order_id>\r\n<response_code>00<\/response_code>\r\n<response_text>Approved.<\/response_text>\r\n<\/WebPaymentSoftwareResponse>\r\n"
+
+RESPONSE:{"@attributes":{"version":"1.0"},"order_id":"140203-0101-00","response_code":"00","response_text":"Approved."}
+-------------------------------------
+RESPONSE RAW: "<?xml version=\"1.0\" ?>\r\n<WebPaymentSoftwareResponse version=\"1.0\">\r\n<order_id>140203-0101-00<\/order_id>\r\n<response_code>00<\/response_code>\r\n<response_text>Approved.<\/response_text>\r\n<\/WebPaymentSoftwareResponse>\r\n"
+
+RESPONSE:{"@attributes":{"version":"1.0"},"order_id":"140203-0101-00","response_code":"00","response_text":"Approved."}
+-------------------------------------
+RESPONSE RAW: "<?xml version=\"1.0\" ?>\r\n<WebPaymentSoftwareResponse version=\"1.0\">\r\n<order_id>140203-0101-00<\/order_id>\r\n<response_code>00<\/response_code>\r\n<response_text>Approved.<\/response_text>\r\n<\/WebPaymentSoftwareResponse>\r\n"
+
+RESPONSE:{"@attributes":{"version":"1.0"},"order_id":"140203-0101-00","response_code":"00","response_text":"Approved."}
+-------------------------------------
+RESPONSE RAW: "<?xml version=\"1.0\" ?>\r\n<WebPaymentSoftwareResponse version=\"1.0\">\r\n<order_id>140203-0101-00<\/order_id>\r\n<response_code>00<\/response_code>\r\n<response_text>Approved.<\/response_text>\r\n<\/WebPaymentSoftwareResponse>\r\n"
+
+RESPONSE:{"@attributes":{"version":"1.0"},"order_id":"140203-0101-00","response_code":"00","response_text":"Approved."}
+-------------------------------------
+RESPONSE RAW: "<?xml version=\"1.0\" ?>\r\n<WebPaymentSoftwareResponse version=\"1.0\">\r\n<response_code>00<\/response_code>\r\n<approval_code>TAS333<\/approval_code>\r\n<auth_response_text>NO  MATCH<\/auth_response_text>\r\n<avs_result_code>N<\/avs_result_code>\r\n<cvv_result_code>M<\/cvv_result_code>\r\n<order_id>140203-0956-00<\/order_id>\r\n<response_text>Approved.<\/response_text>\r\n<\/WebPaymentSoftwareResponse>\r\n"
+
+RESPONSE:{"@attributes":{"version":"1.0"},"response_code":"00","approval_code":"TAS333","auth_response_text":"NO  MATCH","avs_result_code":"N","cvv_result_code":"M","order_id":"140203-0956-00","response_text":"Approved."}
+-------------------------------------
+RESPONSE RAW: "<?xml version=\"1.0\" ?>\r\n<WebPaymentSoftwareResponse version=\"1.0\">\r\n<response_code>00<\/response_code>\r\n<approval_code>TAS826<\/approval_code>\r\n<auth_response_text>NO  MATCH<\/auth_response_text>\r\n<avs_result_code>N<\/avs_result_code>\r\n<cvv_result_code>M<\/cvv_result_code>\r\n<order_id>140203-1002-00<\/order_id>\r\n<response_text>Approved.<\/response_text>\r\n<\/WebPaymentSoftwareResponse>\r\n"
+
+RESPONSE:{"@attributes":{"version":"1.0"},"response_code":"00","approval_code":"TAS826","auth_response_text":"NO  MATCH","avs_result_code":"N","cvv_result_code":"M","order_id":"140203-1002-00","response_text":"Approved."}
+-------------------------------------
+RESPONSE RAW: "<?xml version=\"1.0\" ?>\r\n<WebPaymentSoftwareResponse version=\"1.0\">\r\n<response_code>00<\/response_code>\r\n<approval_code>TAS409<\/approval_code>\r\n<auth_response_text>NO  MATCH<\/auth_response_text>\r\n<avs_result_code>N<\/avs_result_code>\r\n<cvv_result_code>M<\/cvv_result_code>\r\n<order_id>140203-1113-00<\/order_id>\r\n<response_text>Approved.<\/response_text>\r\n<\/WebPaymentSoftwareResponse>\r\n"
+
+RESPONSE:{"@attributes":{"version":"1.0"},"response_code":"00","approval_code":"TAS409","auth_response_text":"NO  MATCH","avs_result_code":"N","cvv_result_code":"M","order_id":"140203-1113-00","response_text":"Approved."}
+-------------------------------------
+RESPONSE RAW: "<?xml version=\"1.0\" ?>\r\n<WebPaymentSoftwareResponse version=\"1.0\">\r\n<response_code>124<\/response_code>\r\n<response_text>Illegal referer.<\/response_text>\r\n<\/WebPaymentSoftwareResponse>\r\n"
+
+RESPONSE:{"@attributes":{"version":"1.0"},"response_code":"124","response_text":"Illegal referer."}
+-------------------------------------
+Web Payment Software ERROR:
+response_code:124
+response_reasib_text: Or Illegal referer.
+-------------------------------------
+RESPONSE RAW: "<?xml version=\"1.0\" ?>\r\n<WebPaymentSoftwareResponse version=\"1.0\">\r\n<response_code>00<\/response_code>\r\n<approval_code>TAS970<\/approval_code>\r\n<auth_response_text>NO  MATCH<\/auth_response_text>\r\n<avs_result_code>N<\/avs_result_code>\r\n<cvv_result_code>M<\/cvv_result_code>\r\n<order_id>140212-0102-00<\/order_id>\r\n<response_text>Approved.<\/response_text>\r\n<\/WebPaymentSoftwareResponse>\r\n"
+
+RESPONSE:{"@attributes":{"version":"1.0"},"response_code":"00","approval_code":"TAS970","auth_response_text":"NO  MATCH","avs_result_code":"N","cvv_result_code":"M","order_id":"140212-0102-00","response_text":"Approved."}
+-------------------------------------
+RESPONSE RAW: "<?xml version=\"1.0\" ?>\r\n<WebPaymentSoftwareResponse version=\"1.0\">\r\n<order_id>140212-0102-00<\/order_id>\r\n<response_code>00<\/response_code>\r\n<response_text>Approved.<\/response_text>\r\n<\/WebPaymentSoftwareResponse>\r\n"
+
+RESPONSE:{"@attributes":{"version":"1.0"},"order_id":"140212-0102-00","response_code":"00","response_text":"Approved."}
+-------------------------------------
+Web Payment Software ERROR:
+ order id :54
+response_code:103
+response_reasib_text: Or Order_ID too long, missing, empty or invalid.
+-------------------------------------
+Web Payment Software ERROR:
+ order id :187
+response_code:124
+response_reasib_text: Or Illegal referer.
+-------------------------------------
+Web Payment Software ERROR:
+ order id :187
+response_code:124
+response_reasib_text: Or Illegal referer.
+-------------------------------------
+Web Payment Software ERROR:
+ order id :187
+response_code:124
+response_reasib_text: Or Illegal referer.
+-------------------------------------
