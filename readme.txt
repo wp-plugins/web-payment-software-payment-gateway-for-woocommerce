@@ -3,8 +3,8 @@ Contributors: Dualcube, mountainmedia
 Donate link: http://dualcube.com/
 Tags: gateway, sales, sell, shop, shopping, store, cart, checkout, commerce, e-commerce, web payment, wordpress ecommerce, shopping cart, woocommerce, credit card, extension
 Requires at least: 3.6
-Tested up to: 3.9.1
-Stable tag: 1.0.1
+Tested up to: 4.2.2
+Stable tag: 1.1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -37,12 +37,10 @@ In case you feel compelled to rate this plugin less than 5 stars - please do men
 **Note: This plugin requires that you have an SSL certificate installed and active on your site. Also 'Force SSL' option should be active on Woocommerce.**
 
 
-
 = Obtain Credentials from Web Payment Software Payment Gateway = 
 If you are a merchant looking to accept credit card payments online then click on this [link](https://www.web-payment-software.com/application.php "Web Payment Software Payment Gateway").
 
 To accept payments online, you will need to apply for a payment gateway account and a merchant account.
-
 
 
 = Connect to WooCommerce =
@@ -101,6 +99,9 @@ For security purposes, this plugin requires an active SSL connection via a secur
 = 1.0.1 =
 * Fixed compatibility issue with wordpress 3.9.
 
+= 1.1.0 =
+* Fixed compatibility issue with wordpress 4.2.2.
+* Fixed compatibility issue with woocommerce 2.3.11.
 
 ==Upgrade Notice==
 
@@ -109,3 +110,7 @@ For security purposes, this plugin requires an active SSL connection via a secur
 
 = 1.0.1 =
 * Fixed compatibility issue with wordpress 3.9.
+
+= 1.1.0 =
+* Fixed compatibility issue with wordpress 4.2.2.
+* Fixed compatibility issue with woocommerce 2.3.11.

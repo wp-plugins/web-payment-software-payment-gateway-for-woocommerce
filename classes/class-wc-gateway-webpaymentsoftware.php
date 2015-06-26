@@ -306,12 +306,12 @@ class WC_Paygate extends WC_Payment_Gateway {
 		if ( 'yes' == $this->cvv ){
 			//check security code
 			if ( ! ctype_digit( $cardCSC ) ) {
-				$woocommerce->add_error( __( 'Card security code is invalid (only digits are allowed)', 'wc-paygate' ) );
+				wc_add_notice( __( 'Card security code is invalid (only digits are allowed)', 'wc-paygate' ) , 'error' );
 				return false;
 			}
 
 			if ( ( strlen( $cardCSC ) != 3 && in_array( $cardType, array('Visa', 'MasterCard', 'Discover', 'Diners', 'JCB' ) ) ) || ( strlen( $cardCSC ) != 4 && $cardType == 'American Express' ) ) {
-				$woocommerce->add_error( __( 'Card security code is invalid (wrong length)', 'wc-paygate' ) );
+				wc_add_notice( __( 'Card security code is invalid (wrong length)', 'wc-paygate' ) , 'error' );
 				return false;
 			}
 		}
@@ -324,8 +324,7 @@ class WC_Paygate extends WC_Payment_Gateway {
 			$cardExpirationMonth < 1 ||
 			$cardExpirationYear < $currentYear ||
 			$cardExpirationYear > $currentYear + 20 ) {
-
-			$woocommerce->add_error( __( 'Card expiration date is invalid', 'wc-paygate' ) );
+			wc_add_notice( __( 'Card expiration date is invalid', 'wc-paygate' ) , 'error' );
 			return false;
 
 		}
@@ -334,7 +333,7 @@ class WC_Paygate extends WC_Payment_Gateway {
 		$cardNumber = str_replace( array( ' ', '-' ), '', $cardNumber );
 
 		if ( empty( $cardNumber ) || ! ctype_digit( $cardNumber ) ) {
-			$woocommerce->add_error( __( 'Card number is invalid', 'wc-paygate' ) );
+			wc_add_notice( __( 'Card number is invalid', 'wc-paygate' ) , 'error' );
 			return false;
 		}
 

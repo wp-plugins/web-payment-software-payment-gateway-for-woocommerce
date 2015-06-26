@@ -50,7 +50,7 @@ class WC_Paygate_API_Response {
 			$cancelNote = __( 'Web Payment Software Payment Failed', 'wc-paygate' )  . __( ' , Payment was rejected due to an error', 'wc-paygate' ) . ': "' . $final_response['auth_response_text'] . ' '. $final_response['response_text'].'"';
 			$order->add_order_note( $cancelNote );
 			if(!$admin_access) {
-				$woocommerce->add_error( $cancelNote );
+				wc_add_notice( __( 'Web Payment Gateway error : ', 'woocommerce' ) . $cancelNote, 'error' );
 			} else {
 				$woocommerce_errors[] = json_encode($final_response) ;
 			}

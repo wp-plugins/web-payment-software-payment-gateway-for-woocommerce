@@ -100,7 +100,7 @@ class WC_Paygate_API_Request {
 			$parse_response = $parse_response->parse_api_response($response, $order, $this->trans_type, $debugon, $admin_access);
 			if($parse_response) return true;
 		} catch( Exception $e ) {
-			$woocommerce->add_error( __( 'Connection error:', 'wc-paygate' ) . ': "' . $e->getMessage() . '"' );
+			wc_add_notice( __( 'Web Payment Gateway error : ', 'woocommerce' ) .  $e->getMessage(), 'error' );
 			return false;
 		}
     return false;
